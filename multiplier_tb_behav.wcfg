@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="multiplier_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="multiplier_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="51550001fs"></ZoomEndTime>
+      <Cursor1Time time="0fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="113"></NameColumnWidth>
+      <ValueColumnWidth column_width="112"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="3" />
+   <wvobject fp_name="/multiplier_tb/input1" type="array">
+      <obj_property name="ElementShortName">input1[2:0]</obj_property>
+      <obj_property name="ObjectShortName">input1[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/multiplier_tb/input2" type="array">
+      <obj_property name="ElementShortName">input2[2:0]</obj_property>
+      <obj_property name="ObjectShortName">input2[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/multiplier_tb/multiply_output" type="array">
+      <obj_property name="ElementShortName">multiply_output[5:0]</obj_property>
+      <obj_property name="ObjectShortName">multiply_output[5:0]</obj_property>
+   </wvobject>
+</wave_config>
